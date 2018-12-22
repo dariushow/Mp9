@@ -1,0 +1,116 @@
+
+
+#text-navbar a {
+	color: white;
+
+}
+#text-navbar {
+	background-color: black;
+}
+
+.image-fluid {
+	overflow-x: hidden;
+}
+
+#hamburger {
+	
+	background: red;
+	
+}
+
+#icon {
+	background-color: white;
+}
+
+.jumbotron-image {
+	background: url(../images/background-home.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 80vh;
+	
+}
+
+.text-composer {
+	color: white;
+
+}
+
+.background-dark {
+	background-color: black;
+}
+
+.background {
+	background-color: black;	
+}
+
+.card-body {
+	background-color: black;
+
+}
+
+#border {
+	
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+
+}
+
+.card-img-top:hover {
+ transform: scale(1.1);
+ transition: 1s ease-in-out;
+
+}
+
+.lead-text {
+	font-size: 18px;
+	letter-spacing: 1.5;
+	text-overflow: hidden;
+}
+
+#event-border  {
+	
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #000;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.card:hover .overlay {
+  width: 100%;
+}
+
+
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
+.footer {
+	background: url(../images/vinyl.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
